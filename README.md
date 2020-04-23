@@ -2,11 +2,11 @@
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/jamiegluk/safety-kiwi?color=blue)
 ![GitHub publish Workflow Status](https://img.shields.io/github/workflow/status/jamiegluk/safety-kiwi/Publish%20Website?label=publish)
-![Website](https://img.shields.io/website?url=https%3A%2F%memes.jamiegl.com%2Fkiwi)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmemes.jamiegl.com%2Fkiwi%2F)
 
 Safety Kiwi website for Abertay University by Callum Grieve 🥝.
 
-## [Click to View App Online](https://memes.jamiegl.com/kiwi).
+**[Click to View App Online](https://memes.jamiegl.com/kiwi)**.
 
 **This website is not by me, I am simply hosting it, with permission.**  
 Project originally created as part of a Computing BSc (Hons) dissertation for [Abertay University](https://abertay.ac.uk), Dundee (UK).
