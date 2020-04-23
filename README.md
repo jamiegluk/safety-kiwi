@@ -1,10 +1,10 @@
-# safety-kiwi
+﻿# safety-kiwi
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/jamiegluk/safety-kiwi?color=blue)
 ![GitHub publish Workflow Status](https://img.shields.io/github/workflow/status/jamiegluk/safety-kiwi/Publish%20Website?label=publish)
 ![Website](https://img.shields.io/website?url=https%3A%2F%memes.jamiegl.com%2Fkiwi)
 
-Safety Kiwi website for Abertay University by Callum Grieve.
+Safety Kiwi website for Abertay University by Callum Grieve 🥝.
 
 ## [Click to View App Online](https://memes.jamiegl.com/kiwi).
 
