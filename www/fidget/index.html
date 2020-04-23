@@ -1,0 +1,45 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Prepare to be spun</title>
+	<link rel="shortcut icon" type="image/x-generic" href="favicon.ico" />
+</head>
+<body>
+<p>
+<audio id="edgeaudio" src="edge.mp3"></audio>
+<img class="image" alt="" border="0" id="edgesound" name="edgesound" src="fidget.jpg" /></p>
+<h1>Stop phoning me I don't want your help with this website and nothing else will ever be added to it</h1>
+<style type="text/css">
+h1{
+    color: #FFFFFF;
+}
+body{
+	padding:0;
+	margin:0;
+	background-color: #000000;
+}
+.image {
+	left: 50%;
+    margin:-60px 0 0 -60px;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+#edgesound{
+	height:100vh;
+    display:block;
+    margin:0 auto;
+	cursor:pointer;
+}
+</style>
+</body>
+<script type="text/javascript">
+   window.onload = function() {
+      document.getElementById("edgesound").onclick = function() {
+          document.getElementById("edgeaudio").play();
+      };
+   };
+</script>
+</html>

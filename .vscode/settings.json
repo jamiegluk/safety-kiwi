@@ -1,0 +1,10 @@
+{
+	"dimmer.enabled": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+  "beautify.ignore": "www",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

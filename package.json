@@ -1,0 +1,30 @@
+{
+	"name": "safety-kiwi",
+	"version": "1.0.0",
+	"description": "Safety Kiwi website for Abertay University by Callum Grieve.",
+	"keywords": [
+		"kiwi",
+		"safety",
+		"grieve",
+		"callum",
+		"abertay",
+		"uni",
+		"university"
+	],
+	"author": "Callum Grieve",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jamiegluk/safety-kiwi.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jamiegluk/safety-kiwi/issues"
+	},
+	"homepage": "https://github.com/jamiegluk/safety-kiwi",
+	"browserslist": [
+		"last 1000 Chrome versions and since 2017-05"
+	],
+	"devDependencies": {
+		"prettier": "latest"
+	}
+}
